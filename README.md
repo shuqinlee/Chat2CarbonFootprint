@@ -1,4 +1,4 @@
-# Chat2Footprint
+# Chat2CarbonFootprint
 
 This repository contains the codebase for our ACL 2025 ClimateNLP Workshop paper:
 
