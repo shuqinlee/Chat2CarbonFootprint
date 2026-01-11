@@ -111,9 +111,6 @@ Where:
 
 If you use this dataset or framework in your research, please cite our work:
 
-## 📝 Citation
-If you use this dataset or framework in your research, please cite our work:
-
 ```bibtex
 @inproceedings{li-etal-2025-llm,
     title = "LLM-Driven Estimation of Personal Carbon Footprint from Dialogues",
