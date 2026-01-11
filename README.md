@@ -111,12 +111,17 @@ Where:
 
 If you use this dataset or framework in your research, please cite our work:
 
+## 📝 Citation
+If you use this dataset or framework in your research, please cite our work:
+
 ```bibtex
-@inproceedings{Li2025PCCT,
-  title={LLM-Driven Estimation of Personal Carbon Footprint from Dialogues},
-  author={Li, Shuqin and Du, Huifang and Wang, Haofen},
-  booktitle={ACL 2025 Workshop},
-  year={2025}
+@inproceedings{li-etal-2025-llm,
+    title = "LLM-Driven Estimation of Personal Carbon Footprint from Dialogues",
+    author = "Li, Shuqin  and Du, Huifang  and Wang, Haofen",
+    booktitle = "Proceedings of the 2nd Workshop on Natural Language Processing and Climate Change (ClimateNLP 2025)",
+    year = "2025",
+    publisher = "Association for Computational Linguistics",
+    url = "[https://aclanthology.org/2025.climatenlp-1.20/](https://aclanthology.org/2025.climatenlp-1.20/)"
 }
 ```
 
