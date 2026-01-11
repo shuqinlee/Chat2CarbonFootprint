@@ -79,7 +79,7 @@ Below is a sample entry from the dataset representing a single user session. The
 - `carbon_footprint`: The aggregated total emissions for the session and a breakdown by activity.
 
 ## 🚀 Methodology: PCCT Framework
-![PCCT Framework Overview](framework.pdf)  
+![PCCT Framework Overview](framework.png)  
 *Figure 1: Overview of the PCCT framework for personal carbon footprint estimation from dialogues.*
 
 We propose the **Progressive Contextual Carbon Tracking (PCCT)** framework. It is designed to handle the progressive nature of human conversation, where users may provide incomplete information initially and add details over multiple turns.
